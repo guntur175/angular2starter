@@ -1,0 +1,8 @@
+html, body{
+  height: 100%;
+  font-family: 'source sans pro', sans-serif
+}
+
+span.active {
+  background-color: gray;
+}
